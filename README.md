@@ -1,8 +1,8 @@
 ## Урок 2. Итоговая контрольная работа
 
-[ПЕРЕЙТИ К ЗАДАНИЮ](#задание)
+[ПЕРЕЙТИ К ЗАДАНИЮ](https://github.com/Mihon99/Final_control_work_on_the_specialization_block#задание)
 
-[ПЕРЕЙТИ К РЕШЕНИЮ](#решение)
+[ПЕРЕЙТИ К РЕШЕНИЮ](https://github.com/Mihon99/Final_control_work_on_the_specialization_block#решение)
 
 **Информация о проекте**
 
@@ -90,7 +90,7 @@ mv "Animals" "Друзья человека"
 
 </details>
 
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/1.PNG)
 
 2.
 
@@ -107,7 +107,7 @@ ls
 
 </details>
 
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/2.PNG)
 
 3.
 
@@ -123,10 +123,10 @@ sudo service mysql status
 
 </details>
 
-![pictures for project]()
-![pictures for project]()
-![pictures for project]()
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/3.1.PNG)
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/3.2.PNG)
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/3.3.PNG)
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/3.4.PNG)
 
 4.
 
@@ -141,7 +141,7 @@ sudo dpkg -r sl
 
 </details>
 
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/4.PNG)
 
 5.
 
@@ -243,11 +243,11 @@ sudo dpkg -r sl
 
 </details>
 
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/5.PNG)
 
 6.
 
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/6.png)
 
 7.
 
@@ -255,7 +255,7 @@ sudo dpkg -r sl
 CREATE DATABASE Друзья_человека;
 ```
 
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/7.PNG)
 
 8.
 
@@ -342,7 +342,7 @@ show tables;
 
 </details>
 
-![pictures for project]()
+![pictures for project](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/blob/main/Source/8.PNG)
 
 
 9.
@@ -444,4 +444,4 @@ SELECT 'Ослы' AS тип_животного, имя, команда, дата
 
 </details>
 
-13. , 14. , 15. - [-= Перейти к коду Java =-]()
+13. , 14. , 15. - [-= Перейти к коду Java =-](https://github.com/Mihon99/Final_control_work_on_the_specialization_block/tree/main/Java)
